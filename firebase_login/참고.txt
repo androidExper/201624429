@@ -1,0 +1,5 @@
+package name : com.example.termproject_1
+
+requestToken : 1027197876060-9tgbbutpv28bhv2vft3ru16o9j0i4ss6.apps.googleusercontent.com
+
+SHA-1 인증서 지문 : 27:4f:04:29:ec:ed:18:23:02:08:a3:40:77:b7:5c:7a:cc:8e:dc:69
